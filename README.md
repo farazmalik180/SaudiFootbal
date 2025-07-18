@@ -63,13 +63,6 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-### 3. Deploy to Netlify
-
-- Push this repo to GitHub.
-- Connect your repo to [Netlify](https://app.netlify.com/).
-- Set build command: `npm run build` and publish directory: `dist`.
-- Deploy and share your Netlify URL!
-
 ## Customization
 
 - Edit `src/data/players.json` to update player data, images, and stats.

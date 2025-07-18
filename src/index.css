@@ -3,5 +3,6 @@
 @tailwind utilities;
 
 body {
-  @apply bg-[#10192b] text-white font-sans;
+  @apply bg-[#101926] text-white font-sans;
+  font-family: 'Inter', 'Roboto', Arial, sans-serif;
 } 
