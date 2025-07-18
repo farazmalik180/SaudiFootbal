@@ -28,7 +28,7 @@ function getLabelPositions(labels, radius = 60, centerX = 80, centerY = 80) {
   });
 }
 
-const mainHeatmapUrl = "Screenshot (1219).png";
+const mainHeatmapUrl = "https://image.pngaaa.com/943/161943-middle.png";
 const smallHeatmapUrl = "https://www.nicepng.com/png/full/274-2746589_kyle-korvers-shooting-heat-map-is-outrageous-atlanta.png";
 
 function PlayerModal({ player, onClose }) {
