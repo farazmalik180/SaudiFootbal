@@ -63,6 +63,20 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
+## Deployment: Netlify
+
+You can deploy this app for free using [Netlify](https://netlify.com/):
+
+1. **Push your code to GitHub.**
+2. **Go to [Netlify](https://app.netlify.com/) and sign in.**
+3. **Click "Add new site" > "Import an existing project".**
+4. **Connect your GitHub account and select your repo.**
+5. **Set the following build settings:**
+   - **Build command:** `npm run build`
+   - **Publish directory:** `dist`
+6. **Click "Deploy Site".**
+7. After deployment, Netlify will give you a public URL to share.
+
 ## Customization
 
 - Edit `src/data/players.json` to update player data, images, and stats.
